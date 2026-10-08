@@ -5,3 +5,12 @@ ini adalah repository pertama saya
 Nama   :Alfian Prada Anindhia
 NIM    :264107020219
 Kelas  :TI-1E
+Hasil Uji Studi Kasus 2 oleh <Rear Junior Adi Soehendra>
+| No | Jenis | Dokumen | Juara/Dana | Output  | Sesuai? |
+|----|-------|---------|------------|---------|---------|
+| 1  |   1   |    4    |      3     | Berhak  |    Ya   |
+| 2  |   4   |    4    |    lulus   | Berhak  |    Ya   |
+| 3  |   5   |    4    |      -     | Tidak   |    Ya   |
+P Ganjil = jenis kegiatan "PKM", dokumen = 2+0 = 2, status pendanaan = 1(lolos)
+| Jenis Kegiatan | Dokumen | Peringkat/Pendanaan | Output yang diharapkan |
+|      PKM       |    2    |          -          | Dokumen tidak lengkap (kurang -2 dokumen).Dana penghargaan tidak diberikan.|
