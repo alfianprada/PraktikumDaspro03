@@ -12,7 +12,7 @@ public class StudiKasus203 {
         System.out.print("Jumlah dokumen  : ");
         int dokumen = al.nextInt();
         
-        if (dokumen >=4) {
+        if (dokumen ==4) {
             if (kegiatan.equalsIgnoreCase("BELMAWA") 
                 || kegiatan.equalsIgnoreCase("BAKORMA") 
                 || kegiatan.equalsIgnoreCase("Mandiri")) {
@@ -38,7 +38,7 @@ public class StudiKasus203 {
                 }
             }
         } else {
-            System.out.println("Status : Dokumen tidak lengkap (kurang "+ (dokumen-4)+
+            System.out.println("Status : Dokumen tidak lengkap (kurang "+ (4-dokumen)+
             " dokumen.Dana penghargaan tidak diberikan.");
         }
     }
